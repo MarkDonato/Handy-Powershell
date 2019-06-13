@@ -1,2 +1,2 @@
 # Handy-Powershell
-Handy little powershell scripts I have either came across or made and made to be user-friendly
+Handy little powershell scripts I have either came across or created and have designed them to be user-friendly
